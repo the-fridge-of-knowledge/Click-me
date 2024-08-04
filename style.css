@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  text-align: center;
+  background-color: #292929;
+}
+#main-button{
+  display: inline-block;
+  background-color: #212121;
+  font-size: 250%;
+  margin-top: 10%;
+  color: white;
+}
+#main-button:hover{
+}
+#title{
+  color: white;
+}
+#counter{
+  color: white;
+  font-size: 200%;
+}
+#level{
+  text-align: center;
+  color: white;
+  font-size: 200%;
+}
+#high-score{
+  text-align:right;
+  color: white;
+  font-size: 100%;
+}
